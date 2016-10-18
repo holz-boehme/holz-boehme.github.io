@@ -62,7 +62,7 @@ p.description.t1
 p a,
 table a
 {
-	color: #F4BC16;
+	color: #279D2D;
 	font-weight: 600;
 }
 strong
@@ -81,7 +81,7 @@ blockquote:before
 {
 	display: block;
 	font-size: 48px;
-	color: #F4BC16;
+	color: #279D2D;
 	text-align: left;
 	margin-bottom: 10px;
 }
@@ -403,7 +403,7 @@ h2.box-header.align-left
 {
 	display: block;
 	content: "";
-	background: #F4BC16;
+	background: #279D2D;
 	width: 40px;
 	height: 2px;
 	margin-top: 13px;
@@ -484,12 +484,12 @@ h6.box-header:after
 {
 	font-size: 37px;
 	font-weight: 900;
-	color: #F4BC16;
+	color: #279D2D;
 	line-height: 1;
 }
 .header h1 a
 {	
-	color: #F4BC16;
+	color: #279D2D;
 }
 .header h1 a:hover
 {
@@ -590,7 +590,7 @@ h6.box-header:after
 }
 .sf-menu li:hover a, .sf-menu li:hover a:visited
 {
-	color: #F4BC16;
+	color: #279D2D;
 }
 .sf-menu li a, .sf-menu li a:visited
 {
@@ -606,7 +606,7 @@ h6.box-header:after
 .sf-menu a:visited:hover,
 .sf-menu li.selected a
 {
-	color: #F4BC16;
+	color: #279D2D;
 }
 body .header-container .menu-container .sf-menu>li:first-child>a
 {
@@ -667,7 +667,7 @@ body .header-container .menu-container .sf-menu>li:first-child>a
 .menu-container .sf-menu li:hover ul li.selected ul li.selected a,
 .menu-container .sf-menu li:hover ul li.sfHover>a
 {	
-	color: #F4BC16;
+	color: #279D2D;
 }
 ul.sf-menu li li:hover ul, ul.sf-menu li li.sfHover ul,
 ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul
@@ -712,7 +712,7 @@ ul.sf-menu li li:first-child li:first-child:hover ul, ul.sf-menu li li:first-chi
 .mobile-menu li.selected ul li.selected a,
 .mobile-menu li.selected ul li.selected ul li.selected a
 {
-	background: #F4BC16;
+	background: #279D2D;
 	color: #FFF;
 }
 .mobile-menu li ul a
@@ -745,7 +745,7 @@ ul.sf-menu li li:first-child li:first-child:hover ul, ul.sf-menu li li:first-chi
 }
 .mobile-menu-switch:hover .line
 {
-	background: #F4BC16;
+	background: #279D2D;
 }
 /* --- vertical menu --- */
 .vertical-menu li
@@ -768,7 +768,7 @@ ul.sf-menu li li:first-child li:first-child:hover ul, ul.sf-menu li li:first-chi
 .vertical-menu li.selected a,
 .vertical-menu li:hover a
 {
-	background: #F4BC16;
+	background: #279D2D;
 }
 .vertical-menu li.selected a,
 .vertical-menu li:hover a,
@@ -913,7 +913,7 @@ body.overlay .background-overlay
 }
 .row.yellow
 {
-	background: #F4BC16;
+	background: #279D2D;
 }
 .row:after
 {
@@ -1044,7 +1044,7 @@ div.team-box
 {
 	float: left;
 	font-size: 48px;
-	color: #F4BC16;
+	color: #279D2D;
 	border: 1px solid #E2E6E7;
 	padding: 19px;
 	border-radius: 50%;
@@ -1166,7 +1166,7 @@ div.team-box
 }
 .team-box ul.social-icons li:hover
 {
-	background: #F4BC16;
+	background: #279D2D;
 }
 .team-box ul.social-icons li:hover a
 {
@@ -1257,7 +1257,7 @@ div.team-box
 	float: left;
 	font-size: 48px;
 	margin-right: 30px;
-	color: #F4BC16;
+	color: #279D2D;
 	border: 1px solid #E2E6E7;
 	padding: 19px;
 	border-radius: 50%;
@@ -1369,7 +1369,7 @@ div.team-box
 	height: 7px;
 	margin-left: 6px;
 	margin-top: 6px;
-	background: #F4BC16;
+	background: #279D2D;
 	border-radius: 50%;
 	-moz-border-radius: 50%;
 	-webkit-border-radius: 50%;
@@ -1384,7 +1384,7 @@ div.team-box
 	color: #FFF;
 	font-size: 13px;
 	line-height: 20px;
-	background: #F4BC16;
+	background: #279D2D;
 	padding: 4px 15px 6px 20px;
 	white-space: nowrap;
 }
@@ -1396,7 +1396,7 @@ div.team-box
 	margin-right: 40px;
 	border-style: solid;
 	border-width: 15px 0 15px 15px;
-	border-color: transparent transparent transparent #F4BC16;
+	border-color: transparent transparent transparent #279D2D;
 }
 .timeline-content
 {
@@ -1488,7 +1488,7 @@ div.team-box
 {
 	display: block;
 	content: "";
-	background: #F4BC16;
+	background: #279D2D;
 	width: 40px;
 	height: 2px;
 	margin-top: 30px;
@@ -1553,7 +1553,7 @@ div.team-box
 {
 	position: relative;
 	display: block;
-	color: #F4BC16;
+	color: #279D2D;
 	background: #FFF;
 	width: 48px;
 	font-size: 48px;
@@ -1652,7 +1652,7 @@ body .type-small .testimonials-list .ornament.empty-circle::before
 	width: 48px;
 	height: 48px;
 	font-size: 48px;
-	color: #F4BC16;
+	color: #279D2D;
 	background: #FFF;
 	border: 1px solid #FFF;
 	padding: 19px;
@@ -1703,8 +1703,8 @@ body .type-small .testimonials-list .ornament.empty-circle::before
 }
 .slider-control:hover
 {
-	background: #F4BC16;
-	border-color: #F4BC16;
+	background: #279D2D;
+	border-color: #279D2D;
 }
 /* --- backgrounds --- */
 .background-1
@@ -1750,7 +1750,7 @@ span.odometer.number:after
 {
 	display: block;
 	content: "";
-	background: #F4BC16;
+	background: #279D2D;
 	width: 40px;
 	height: 2px;
 	margin: 20px auto 0;
@@ -1828,7 +1828,7 @@ span.odometer.number:after
 .blog .post-details .date h2,
 .blog .post-details li:before
 {
-	color: #F4BC16;
+	color: #279D2D;
 }
 .blog .post-details li.date:before
 {
@@ -1998,8 +1998,8 @@ span.odometer.number:after
 .re-carousel-pagination a.selected,
 .re-carousel-pagination a:hover
 {
-	border-color: #F4BC16;
-	background: #F4BC16;
+	border-color: #279D2D;
+	background: #279D2D;
 }
 .re-carousel-pagination span
 {
@@ -2039,8 +2039,8 @@ span.odometer.number:after
 .taxonomies a:hover
 {
 	color: #FFF;
-	background: #F4BC16;
-	border-color: #F4BC16;
+	background: #279D2D;
+	border-color: #279D2D;
 }
 .taxonomies.full-width li
 {
@@ -2071,7 +2071,7 @@ span.odometer.number:after
 }
 .buttons li:before
 {
-	color: #F4BC16;
+	color: #279D2D;
     float: left;
     font-size: 24px;
     margin-right: 19px;
@@ -2081,7 +2081,7 @@ span.odometer.number:after
 .buttons li.selected a,
 .buttons li:hover a
 {
-	background: #F4BC16;
+	background: #279D2D;
 	color: #FFF;
 }
 .buttons li.selected:before,
@@ -2102,7 +2102,7 @@ span.odometer.number:after
 	float: left;
 	font-size: 48px;
 	margin-right: 30px;
-	color: #F4BC16;
+	color: #279D2D;
 	border: 1px solid #E2E6E7;
 	padding: 19px;
 	border-radius: 50%;
@@ -2137,7 +2137,7 @@ span.odometer.number:after
 	height: 48px;
 	font-size: 48px;
 	margin-right: 30px;
-	color: #F4BC16;
+	color: #279D2D;
 	border: 1px solid #E2E6E7;
 	padding: 19px;
 	margin-left: auto;
@@ -2196,7 +2196,7 @@ span.odometer.number:after
 	left: 0;
 	top: 0;
 	height: 100%;
-	background: #F4BC16;
+	background: #279D2D;
 	-moz-transition: width 1s ease 0s;
 	-webkit-transition: width 1s ease 0s;
 	transition: width 1s ease 0s;
@@ -2250,7 +2250,7 @@ span.odometer.number:after
 	display: none;
 	font-size: 12px;
 	margin-right: 20px;
-	color: #F4BC16;
+	color: #279D2D;
 }
 .comment-form p.description.t1,
 .contact-form p.description.t1
@@ -2462,8 +2462,8 @@ span.odometer.number:after
 .pagination li.selected a
 {
 	color: #FFF;
-	background-color: #F4BC16;
-	border-color: #F4BC16;
+	background-color: #279D2D;
+	border-color: #279D2D;
 }
 /* --- list bullet --- */
 .list li
@@ -2477,12 +2477,12 @@ span.odometer.number:after
 }
 .list li a
 {
-	color: #F4BC16;
+	color: #279D2D;
 	font-weight: 600;
 }
 li.template-bullet:before
 {
-	color: #F4BC16;
+	color: #279D2D;
 	padding-right: 15px;
 	margin-left: -30px;
 	vertical-align: text-top;
@@ -2544,7 +2544,7 @@ li.template-bullet:before
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 48px;
-	color: #F4BC16;
+	color: #279D2D;
 	padding: 20px 20px 12px;
 }
 .tabs-navigation li a
@@ -2573,7 +2573,7 @@ li.template-bullet:before
 .tabs-navigation.small.gray li a.selected,
 .tabs-navigation.small.gray li.ui-tabs-active a
 {
-	background: #F4BC16;
+	background: #279D2D;
 	color: #FFF;
 }
 .tabs-navigation li a:hover:before,
@@ -2588,7 +2588,7 @@ li.template-bullet:before
 	position: absolute;
 	border-style: solid;
 	border-width: 9px 9px 0;
-	border-color: #F4BC16 transparent;
+	border-color: #279D2D transparent;
 	bottom: -9px;
 	margin-left: -9px;
 }
@@ -2646,8 +2646,8 @@ li.template-bullet:before
 }
 .accordion .ui-accordion-header.ui-state-active
 {
-	background-color: #F4BC16;
-	border-bottom-color: #F4BC16;
+	background-color: #279D2D;
+	border-bottom-color: #279D2D;
 }
 .accordion .ui-accordion-header.ui-state-active h5
 {
@@ -2662,7 +2662,7 @@ li.template-bullet:before
 	float: left;
 	margin-right: 15px;
 	font-size: 24px;
-	color: #F4BC16;
+	color: #279D2D;
 }
 .accordion  .ui-accordion-header:hover
 {
@@ -2774,8 +2774,8 @@ li.template-bullet:before
 }
 .social-icons.yellow li
 {
-	background: #F4BC16;
-	border: 2px solid #F4BC16;
+	background: #279D2D;
+	border: 2px solid #279D2D;
 	margin-left: 1px;	
 }
 .social-icons.yellow li:hover
@@ -3000,7 +3000,7 @@ li.template-bullet:before
 	float: left;
 	font-size: 48px;
 	margin-right: 30px;
-	color: #F4BC16;
+	color: #279D2D;
 	border: 1px solid #E2E6E7;
 	padding: 19px;
 	border-radius: 50%;
@@ -3017,7 +3017,7 @@ li.template-bullet:before
 	font-family: 'Raleway';
 	font-size: 14px;
 	line-height: 24px;
-	border-left: 4px solid #F4BC16;
+	border-left: 4px solid #279D2D;
 	padding: 14px 0 12px 15px;
 }
 .cost-calculator-box .cost-slider-container
@@ -3071,7 +3071,7 @@ li.template-bullet:before
 	font-family: 'Raleway';
 	font-weight: 300;
 	font-size: 40px;
-	color: #F4BC16;
+	color: #279D2D;
 }
 .ui-slider
 {
@@ -3105,7 +3105,7 @@ li.template-bullet:before
 	height: 10px;
 	margin-left: 9px;
 	margin-top: 9px;
-	background: #F4BC16;
+	background: #279D2D;
 	border-radius: 50%;
 	-moz-border-radius: 50%;
 	-webkit-border-radius: 50%;
@@ -3122,7 +3122,7 @@ li.template-bullet:before
 	width: 100%;
 	font-family: 'Raleway';
 	color: #FFF;
-	background: #F4BC16;
+	background: #279D2D;
 	padding: 12px 0;
 	text-align: center;
 }
@@ -3135,7 +3135,7 @@ li.template-bullet:before
 .ui-slider-handle .cost-slider-tooltip .arrow::before
 {
 	content: "";
-	border-color: #F4BC16 transparent;
+	border-color: #279D2D transparent;
     border-style: solid;
     border-width: 0 8px 8px;
 	width: 1px;
@@ -3146,7 +3146,7 @@ li.template-bullet:before
 }
 .ui-slider-range-min
 {
-	background: #F4BC16;
+	background: #279D2D;
 	border-radius: 5px;
 }
 .ui-selectmenu-button
@@ -3173,7 +3173,7 @@ li.template-bullet:before
 .ui-selectmenu-button.ui-corner-top .ui-icon,
 .ui-selectmenu-button:hover .ui-icon
 {
-	color: #F4BC16;
+	color: #279D2D;
 }
 .ui-selectmenu-menu
 {
@@ -3200,7 +3200,7 @@ li.template-bullet:before
 }
 .ui-selectmenu-menu .ui-menu li.ui-state-focus
 {
-	color: #F4BC16;
+	color: #279D2D;
 }
 /* --- buttons --- */
 .more,
@@ -3210,7 +3210,7 @@ li.template-bullet:before
 	font-family: 'Raleway';
 	font-size: 12px;
 	font-weight: 700;
-	background: #F4BC16;
+	background: #279D2D;
 	padding: 16px 23px 15px;
 	text-align: center;
 	cursor: pointer;
@@ -3222,7 +3222,7 @@ li.template-bullet:before
 	transition: all 0.3s ease 0s;
 	-webkit-transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
-	border: 2px solid #F4BC16;
+	border: 2px solid #279D2D;
 }
 .more:hover
 {
@@ -3242,8 +3242,8 @@ li.template-bullet:before
 }
 .more.simple:hover
 {
-	border-color: #F4BC16;
-	background: #F4BC16;
+	border-color: #279D2D;
+	background: #279D2D;
 }
 .more.small
 {
@@ -3333,7 +3333,7 @@ div.pp_default .pp_close:hover
 .slider-content-box h2
 {
 	color: #FFF;
-	border-bottom: 1px solid #F4BC16;
+	border-bottom: 1px solid #279D2D;
 	padding: 21px 30px 20px;
 	background: rgba(38, 38, 40, 0.68);
 }
@@ -3460,7 +3460,7 @@ div.pp_default .pp_close:hover
 }
 .scroll-top:hover
 {
-	background: #F4BC16;
+	background: #279D2D;
 }
 .header h1 a,
 .sf-menu a:hover,
