@@ -913,7 +913,8 @@ body.overlay .background-overlay
 }
 .row.yellow
 {
-	background: #279D2D;
+/*	background: #279D2D;*/
+	background: rgba(38, 38, 40, 0.68)
 }
 .row:after
 {
